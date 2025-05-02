@@ -15,7 +15,7 @@ import java.util.Objects;
 @RequiredArgsConstructor
 @Slf4j
 public class MilestoneDeleteAdaptor {
-
+    // 최신화를 해보겠습니다.
     private static final String PROJECT_API = "http://localhost:7070/project/";
 
     private final RestTemplate restTemplate;
